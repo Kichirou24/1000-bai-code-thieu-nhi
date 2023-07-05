@@ -1,3 +1,6 @@
+/*
+    By Kichirou24
+*/
 #include <stdio.h>
 
 int main() {
