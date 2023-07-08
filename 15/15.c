@@ -15,7 +15,7 @@ int tinhtong(int x){
 } 
 
 int main() {
-    int n, x, i, j, temp; 
+    int n, i, temp; 
     double sum;
     scanf("%d", &n );
     sum = 1;
