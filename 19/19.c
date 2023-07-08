@@ -3,17 +3,6 @@
 */
 #include <stdio.h>
 
-/* int multi(int x, int y) {
-    int z, r;
-    r = 1;
-    z = 1;
-    while (z<=y) {
-        r *= x;
-        z++;
-    }
-    return r;
-} */
-
 double multi(int x, int y){
     int z, r;
     y = 2*y + 1;
